@@ -3,7 +3,6 @@
 #include "structheroname.h"
 #include "tmg.h"
 
-// ====================== CẤU HÌNH ESP ======================
 struct ESP_Config {
     bool Enable = true;
     bool Line = true;
