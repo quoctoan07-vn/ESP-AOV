@@ -1,5 +1,5 @@
 # ESP-AOV
-Copy paste mấy hàm suport thì dùng như esp mùa cũ.
+Copy paste mấy method + field thì dùng như esp mùa cũ. Mấy hàm vẽ bảo AI nó vẽ cho nữa là xong.
 # Touch imgui: 
 https://github.com/quoctoan07-vn/Touch-AOV
 # Anti report
